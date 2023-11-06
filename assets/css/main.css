@@ -2999,6 +2999,7 @@ input, select, textarea {
 			#header {
 				padding: 6em 3em 3em 3em;
 				width: 30%;
+				overflow: auto;
 			}
 
 				#header h1 {
